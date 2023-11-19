@@ -1,0 +1,20 @@
+{
+  "name": "posmotri_v_okno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyFedorov007/posmotri_v_okno.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyFedorov007/posmotri_v_okno/issues"
+  },
+  "homepage": "https://github.com/SergeyFedorov007/posmotri_v_okno#readme"
+}
